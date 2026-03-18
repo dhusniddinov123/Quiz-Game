@@ -23,19 +23,3 @@ Random Module: For randomization of data.
 main.py: The core logic of the quiz.
 questions.json: The database containing questions, options, and correct answers.
 README.md: Project documentation.
-
-📥 Getting Started
-
-Clone the repository:
-code
-Bash
-git clone https://github.com/dhusniddinov123/Quiz-Game.git
-Navigate to the folder:
-code
-Bash
-cd your-repo-name
-Ensure you have a questions.json file in the same directory.
-Run the quiz:
-code
-Bash
-python main.py
